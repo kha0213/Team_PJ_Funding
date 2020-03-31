@@ -1,6 +1,8 @@
 ## Team_PJ_Funding
 
-참조사이트<br>
+#### [요구사항 정리](https://github.com/kha0213/Team_PJ_Funding/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EB%A6%AC)
+
+### 참조사이트
 #### 1. 리워드형+지분투자형
 [와디즈](https://www.wadiz.kr/web/main)<br>
 [크라우디](https://www.ycrowdy.com/)<br>
