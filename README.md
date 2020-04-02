@@ -11,3 +11,6 @@
 [IBK투자증권](https://crowd.ibks.com/)<br>
 #### 3. 리워드형
 [텀블벅](https://tumblbug.com/)<br>
+
+### 팀 회의
+[200401 1차 회의](https://github.com/kha0213/Team_PJ_Funding/wiki/200402_1%EC%B0%A8%ED%9A%8C%EC%9D%98)<br>
